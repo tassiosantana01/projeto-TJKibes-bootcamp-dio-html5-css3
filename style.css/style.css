@@ -6,12 +6,6 @@ body {
     
 }
 
-.post_image_titulo {
-    border-radius: 50px;
-    border: 5px solid red;
-    font-family: Verdana;
-}
-
 #title, .post_title, .subtitle {
     color: white;
 }
@@ -46,6 +40,14 @@ a {
     margin-bottom: 15px;
     text-transform: capitalize;
     text-align: justify;
+}
+
+
+.post_image_titulo {
+    border-radius: 500px;
+    border: 5px solid red;
+    font-family: Verdana;
+    width: 20%;
 }
 
 .post_image {
